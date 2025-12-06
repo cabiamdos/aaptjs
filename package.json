@@ -13,10 +13,10 @@
   "author": {
     "name": "shenzm <szmalq@163.com>"
   },
-  "homepage": "https://github.com/shenzhim/aaptjs#readme",
+  "homepage": "https://github.com/cabiamdos/aaptjs#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shenzhim/aaptjs.git"
+    "url": "git+https://github.com/cabiamdos/aaptjs.git"
   },
   "license": "MIT",
   "dependencies": {
