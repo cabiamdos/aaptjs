@@ -4,16 +4,16 @@ A node wraper for aapt
 
 # Install
 
-With [npm](https://npmjs.org/package/node-aapt) do:
+With [npm](https://npmjs.org/package/@cabiam/aaptjs) do:
 
 ```
-npm install aaptjs --save
+npm install @cabiam/aaptjs --save
 ```
 
 ## Example
 Using a callback:
 ```js
-const aaptjs = require('aaptjs');
+const aaptjs = require('@cabiam/aaptjs');
 
 aaptjs.list('/path/to/your/ExampleApp.apk', (err, data) => {
   if (err) {
@@ -38,3 +38,8 @@ aaptjs.list('/path/to/your/ExampleApp.apk')
   }
 
 ```
+
+## Acknowledment
+
+https://github.com/vldmkr/node-aapt
+https://github.com/shenzhim/aaptjs
